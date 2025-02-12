@@ -1,7 +1,7 @@
 # Visualization and Analysis of Car Sales Using Microsoft Excel
 ----
 
-### This repository features a data analysis project focused on car sales, utilizing pivot tables in Microsoft Excel and was developed during my studies in the IBM Data Analyst Professional Certificate course.
+### This repository features a data analysis project focused on car sales, utilizing pivot tables in Microsoft Excel for the creation of an interactive dashboard and was developed during my studies in the IBM Data Analyst Professional Certificate course.
 ----
 
 ## Introduction
